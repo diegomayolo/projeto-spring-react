@@ -1,4 +1,3 @@
-# projeto-spring-react
 
 Participei da Semana Spring React da <a href="https://devsuperior.com.br/cursos">DevSuperior</a>. Desenvolvimento de um website com entrega contínua.<br>
 Link do projeto no ar: https://diegomayolovendas.netlify.app/<br>
